@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰Join Our Group🔰', url="https://t.me/Film_Freakers"
+                                    '🔰Join Our Group🔰', url="https://t.me/Film_crux"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰Join Our Group🔰', url="https://t.me/Film_Freakers"
+                                    '🔰Join Our Group🔰', url="https://t.me/Film_crux"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰Join Our Group🔰', url="https://t.me/Film_Freakers"
+                                    '🔰Join Our Group🔰', url="https://t.me/Film_crux"
                                 )
                         ]
                     ]
@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🔰 Channel 🔰', url='https://t.me/Films_4u'),
-        InlineKeyboardButton('⚜️Join Our Group⚜️', url ='https://t.me/Film_Freakers')
+        InlineKeyboardButton('🔰 Channel 🔰', url='https://t.me/saisidheswar'),
+        InlineKeyboardButton('⚜️Join Our Group⚜️', url ='https://t.me/Film_crux')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
