@@ -5,16 +5,16 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!! Hi bruh 🥰</b>
-<b>I Am Just A Advance Auto Filter Bot....😉
+<b>I Am Just A Auto Filter Bot V2....😉
 
-Bot gives button link to files in connected group
+U Can use me For u r Groups 🤪....
 
-For More Details Click Help Button Below..
+For More Content join our channel 😅🥰..
 @saisidheswar
 </b>"""    
     
     HELP_TEXT = """
-<b>You Can't see this😜</b>       
+<b>Nothing Here Broo😜</b>       
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
