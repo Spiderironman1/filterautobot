@@ -1601,13 +1601,13 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+="""\n<b><i>⚜️Join Our Group⚜️:</i></b> <a href="https://t.me/Film_Freakers">Source</a>"""
+    text+="""\n<b><i>🤩Join Our Group😎:</i></b> <a href="https://t.me/Film_crux">Source</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "🔰 Channel 🔰", url="https://t.me/Films_4u"
+                    "🥰 Our Channel 😅", url="https://t.me/saisidheswar"
                 ),
                 
             InlineKeyboardButton
@@ -1638,8 +1638,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('🔰 Channel 🔰', url='https://t.me/Films_4u'),
-            InlineKeyboardButton('⚜️Join Our Group⚜️', url ='https://t.me/Film_Freakers')
+            InlineKeyboardButton('😅 Channel 😘', url='https://t.me/saisidheswar'),
+            InlineKeyboardButton('😇Join Our Group😇', url ='https://t.me/Film_crux')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
