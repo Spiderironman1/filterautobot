@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰Join Our Group🔰', url="https://t.me/Film_crux"
+                                    '🔰Join Our channel🔰', url="https://t.me/saisidheswar"
                                 )
                         ]
                     ]
